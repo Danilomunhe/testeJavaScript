@@ -8,6 +8,7 @@ function trocarTitulo(){
     titulo.textContent = nome.value
     titulo.classList.add('vermelho')
     titulo.classList.remove('verde', 'azul')
+    
 }
 function trocarTitulo2(){
     titulo.textContent = nome.value
